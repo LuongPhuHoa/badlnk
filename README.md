@@ -17,6 +17,7 @@ The script creates a .lnk file that points to the user's "cmd.exe" file (located
 Once the .lnk file is created, to work, you need to edit it in Windows to remove the quotes in the "target path".
 
 ### Features:
+FUD (until someone upload it to virustotal)
 Port Forwarding using Serveo
 
 ## Legal disclaimer:
